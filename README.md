@@ -18,4 +18,8 @@ https://www.worldbank.org/en/programs/lsms/initiatives/lsms-ISA
 
 < currently working on more detailed instructions for getting data / making the program work with it - contact me for if needed sooner >
 
+If you do  not want to download all the data needed to run the get data program, the output file is in this repository, and can be used to run forecast_hunger
+
+
+
 
